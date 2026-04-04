@@ -1,7 +1,6 @@
-
 ## Project List
 
-*Last updated: 2026-04-03 11:58:30*
+*Last updated: 2026-04-04 23:58:21*
 
 | Name | Description | Stars | Language |
 |------|-------------|-------|----------|
@@ -13,9 +12,10 @@
 | [susu](https://github.com/variableway/susu) | AI education for Susu | ⭐ 0 | HTML |
 | [hyper-it](https://github.com/variableway/hyper-it) | learning hyper  | ⭐ 0 | Python |
 | [dpp-market-intel](https://github.com/variableway/dpp-market-intel) | dpp data and news | ⭐ 0 | HTML |
-| [capture](https://github.com/variableway/capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | - |
+| [capture](https://github.com/variableway/capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
+| [spark-skills](https://github.com/variableway/spark-skills) | Personal AI Agent Skills Collection | ⭐ 0 | Python |
 
-**Statistics**: 9 repositories, 0 total stars, 0.0 average
+**Statistics**: 10 repositories, 0 total stars, 0.0 average
 
 ## Hi there 👋
 
