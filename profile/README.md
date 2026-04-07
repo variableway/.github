@@ -19,10 +19,9 @@ This is Org for Projects created by Learning AI Agent.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
 ## Project List
 
-*Last updated: 2026-04-06 10:26:59*
+*Last updated: 2026-04-07 11:06:38*
 
 | Name | Description | Stars | Language |
 |------|-------------|-------|----------|
@@ -30,7 +29,7 @@ This is Org for Projects created by Learning AI Agent.
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | ⭐ 1 | Go |
 | [spark-skills](https://github.com/variableway/spark-skills) | Personal AI Agent Skills Collection | ⭐ 1 | Python |
 | [.github](https://github.com/variableway/.github) | profile | ⭐ 0 | - |
-| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep some videos fron YT or other website and subtitles into local | ⭐ 0 | Go |
+| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep some videos fron YT or other website and subtitles into local | ⭐ 0 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
@@ -38,4 +37,3 @@ This is Org for Projects created by Learning AI Agent.
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 
 **Statistics**: 10 repositories, 3 total stars, 0.3 average
-

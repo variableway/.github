@@ -9,7 +9,7 @@ I am a self-taught person,so I guess these project may be useful for anyone what
 
 ## Project List
 
-*Last updated: 2026-04-06 10:26:59*
+*Last updated: 2026-04-07 11:06:38*
 
 | Name | Description | Stars | Language |
 |------|-------------|-------|----------|
@@ -17,7 +17,7 @@ I am a self-taught person,so I guess these project may be useful for anyone what
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | ⭐ 1 | Go |
 | [spark-skills](https://github.com/variableway/spark-skills) | Personal AI Agent Skills Collection | ⭐ 1 | Python |
 | [.github](https://github.com/variableway/.github) | profile | ⭐ 0 | - |
-| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep some videos fron YT or other website and subtitles into local | ⭐ 0 | Go |
+| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep some videos fron YT or other website and subtitles into local | ⭐ 0 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
