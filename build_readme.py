@@ -126,24 +126,21 @@ def build_releases_md(releases):
     return "<br>".join(lines)
 
 
-if __name__ == "__main__":
-    readme_path = root / "profile" / "README.md"
-    readme_contents = readme_path.open().read()
+def update_readme(path, repos, releases):
+    """Update a single README file with dynamic content."""
+    contents = path.open().read()
 
+    rewritten = replace_chunk(contents, "project_list", build_project_table(repos))
+    rewritten = replace_chunk(rewritten, "org_stats", build_org_stats(repos))
+    rewritten = replace_chunk(rewritten, "recent_releases", build_releases_md(releases))
+
+    path.open("w").write(rewritten)
+    print(f"Updated {path.relative_to(root)}")
+
+
+if __name__ == "__main__":
     repos = fetch_org_repos(TOKEN)
     releases = fetch_org_releases(TOKEN)
 
-    # Update project list
-    project_table = build_project_table(repos)
-    rewritten = replace_chunk(readme_contents, "project_list", project_table)
-
-    # Update org stats
-    stats_text = build_org_stats(repos)
-    rewritten = replace_chunk(rewritten, "org_stats", stats_text)
-
-    # Update recent releases
-    releases_md = build_releases_md(releases)
-    rewritten = replace_chunk(rewritten, "recent_releases", releases_md)
-
-    readme_path.open("w").write(rewritten)
-    print("README updated successfully.")
+    for readme_path in [root / "profile" / "README.md", root / "README.md"]:
+        update_readme(readme_path, repos, releases)
