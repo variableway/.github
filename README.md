@@ -13,9 +13,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 14 repositories, 4 total stars, 0.3 average
+**Statistics**: 15 repositories, 4 total stars, 0.3 average
 
-*Last updated: 2026-04-20 07:59:46*
+*Last updated: 2026-04-20 13:21:13*
 <!-- org_stats ends -->
 
 ## Project List
@@ -37,6 +37,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep some videos fron YT or other website and subtitles into local | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
 | [innate-way](https://github.com/variableway/innate-way) | where ideas come from,and how it process | ⭐ 0 | Python |
+| [my-tokscale](https://github.com/variableway/my-tokscale) | my tokscale for model by data, copy and modify | ⭐ 0 | TypeScript |
 <!-- project_list ends -->
 
 ## Latest Releases
