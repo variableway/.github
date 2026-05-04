@@ -10,9 +10,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 14 repositories, 4 total stars, 0.3 average
+**Statistics**: 15 repositories, 4 total stars, 0.3 average
 
-*Last updated: 2026-05-04 02:29:11*
+*Last updated: 2026-05-04 08:24:39*
 <!-- org_stats ends -->
 
 ## Project List
@@ -29,8 +29,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [fire-workspace](https://github.com/variableway/fire-workspace) | fire self workspace  | ⭐ 0 | Python |
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
-| [innate-executable](https://github.com/variableway/innate-executable) | selfhost instruction and skill repo to setup | ⭐ 0 | TypeScript |
+| [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
+| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
 | [innate-way](https://github.com/variableway/innate-way) | where ideas come from,and how it process | ⭐ 0 | Python |
 | [my-tokscale](https://github.com/variableway/my-tokscale) | my tokscale for model by data, copy and modify | ⭐ 0 | TypeScript |
@@ -39,5 +40,5 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Latest Releases
 
 <!-- recent_releases starts -->
-• No releases yet
+• [innate-executable - v0.2.0 — Interactive Tutorials & GitHub Pages Deployment](https://github.com/variableway/innate-executable/releases/tag/v0.2.0) - 2026-05-04<br>• [innate-keepthem - v0.1.0 - Desktop Setup, i18n & Bug Fixes](https://github.com/variableway/innate-keepthem/releases/tag/v0.1.0) - 2026-05-04
 <!-- recent_releases ends -->
