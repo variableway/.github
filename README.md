@@ -13,9 +13,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 16 repositories, 4 total stars, 0.2 average
+**Statistics**: 15 repositories, 4 total stars, 0.3 average
 
-*Last updated: 2026-05-04 13:48:43*
+*Last updated: 2026-05-04 19:22:40*
 <!-- org_stats ends -->
 
 ## Project List
@@ -29,7 +29,6 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | ⭐ 1 | Go |
 | [.github](https://github.com/variableway/.github) | profile | ⭐ 0 | Python |
 | [dpp-market-intel](https://github.com/variableway/dpp-market-intel) | dpp data and news | ⭐ 0 | HTML |
-| [fire-workspace](https://github.com/variableway/fire-workspace) | fire self workspace  | ⭐ 0 | Python |
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
