@@ -13,9 +13,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 15 repositories, 4 total stars, 0.3 average
+**Statistics**: 16 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-05-04 08:24:39*
+*Last updated: 2026-05-04 13:48:43*
 <!-- org_stats ends -->
 
 ## Project List
@@ -35,6 +35,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
+| [innate-shanghai-live](https://github.com/variableway/innate-shanghai-live) | innate shanghai collections | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
 | [innate-way](https://github.com/variableway/innate-way) | where ideas come from,and how it process | ⭐ 0 | Python |
 | [my-tokscale](https://github.com/variableway/my-tokscale) | my tokscale for model by data, copy and modify | ⭐ 0 | TypeScript |
