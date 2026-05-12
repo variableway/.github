@@ -12,7 +12,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- org_stats starts -->
 **Statistics**: 16 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-05-12 08:33:36*
+*Last updated: 2026-05-12 14:10:30*
 <!-- org_stats ends -->
 
 ## Project List
@@ -27,7 +27,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [.github](https://github.com/variableway/.github) | profile | ⭐ 0 | Python |
 | [cm-tokscale](https://github.com/variableway/cm-tokscale) | my tokscale for model by data, copy and modify | ⭐ 0 | TypeScript |
 | [dpp-market-intel](https://github.com/variableway/dpp-market-intel) | dpp data and news | ⭐ 0 | HTML |
-| [innate-ai-art](https://github.com/variableway/innate-ai-art) | ai art after work | ⭐ 0 | - |
+| [innate-ai-art](https://github.com/variableway/innate-ai-art) | ai art after work | ⭐ 0 | TypeScript |
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
