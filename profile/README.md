@@ -12,7 +12,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- org_stats starts -->
 **Statistics**: 16 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-05-11 19:41:57*
+*Last updated: 2026-05-12 02:35:39*
 <!-- org_stats ends -->
 
 ## Project List
@@ -31,7 +31,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
-| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | Shell |
+| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
 | [innate-shanghai-live](https://github.com/variableway/innate-shanghai-live) | innate shanghai collections | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
