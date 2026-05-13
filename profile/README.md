@@ -10,9 +10,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 16 repositories, 4 total stars, 0.2 average
+**Statistics**: 15 repositories, 4 total stars, 0.3 average
 
-*Last updated: 2026-05-13 02:41:54*
+*Last updated: 2026-05-13 08:39:12*
 <!-- org_stats ends -->
 
 ## Project List
@@ -35,7 +35,6 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
 | [innate-shanghai-live](https://github.com/variableway/innate-shanghai-live) | innate shanghai collections | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
-| [innate-way](https://github.com/variableway/innate-way) | where ideas come from,and how it process | ⭐ 0 | Python |
 <!-- project_list ends -->
 
 ## Latest Releases
