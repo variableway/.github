@@ -15,7 +15,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- org_stats starts -->
 **Statistics**: 17 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-06-02 10:14:22*
+*Last updated: 2026-06-02 16:13:41*
 <!-- org_stats ends -->
 
 ## Project List
@@ -34,7 +34,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-capture](https://github.com/variableway/innate-capture) | catpure the ideas,capture the moment,capture the sense | ⭐ 0 | Go |
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
-| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
+| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | Go |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
 | [innate-revisit](https://github.com/variableway/innate-revisit) |  | ⭐ 0 | Shell |
 | [innate-router](https://github.com/variableway/innate-router) | innate-router for client and server | ⭐ 0 | - |
