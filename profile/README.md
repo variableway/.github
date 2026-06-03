@@ -10,9 +10,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 18 repositories, 4 total stars, 0.2 average
+**Statistics**: 17 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-06-03 03:38:12*
+*Last updated: 2026-06-03 10:50:40*
 <!-- org_stats ends -->
 
 ## Project List
@@ -33,7 +33,6 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | Go |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
-| [innate-revisit](https://github.com/variableway/innate-revisit) |  | ⭐ 0 | Shell |
 | [innate-router](https://github.com/variableway/innate-router) | innate-router for client and server | ⭐ 0 | - |
 | [innate-shanghai-live](https://github.com/variableway/innate-shanghai-live) | innate shanghai collections | ⭐ 0 | TypeScript |
 | [innate-susu](https://github.com/variableway/innate-susu) | AI education for Susu | ⭐ 0 | HTML |
