@@ -12,7 +12,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- org_stats starts -->
 **Statistics**: 17 repositories, 4 total stars, 0.2 average
 
-*Last updated: 2026-06-04 19:59:21*
+*Last updated: 2026-06-05 02:55:39*
 <!-- org_stats ends -->
 
 ## Project List
@@ -20,7 +20,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- project_list starts -->
 | Name | Description | Stars | Language |
 |------|-------------|-------|----------|
-| [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | ⭐ 1 | Shell |
+| [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | ⭐ 1 | TypeScript |
 | [innate-next-mono](https://github.com/variableway/innate-next-mono) | A mono repo base project for creating website | ⭐ 1 | TypeScript |
 | [innate-wip](https://github.com/variableway/innate-wip) | personal github repo dashboard for builing in public,always in working in process | ⭐ 1 | TypeScript |
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | ⭐ 1 | Go |
