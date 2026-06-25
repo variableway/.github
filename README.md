@@ -13,9 +13,9 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 17 repositories, 3 total stars, 0.2 average
+**Statistics**: 18 repositories, 3 total stars, 0.2 average
 
-*Last updated: 2026-06-25 02:47:25*
+*Last updated: 2026-06-25 08:53:30*
 <!-- org_stats ends -->
 
 ## Project List
@@ -27,6 +27,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-wip](https://github.com/variableway/innate-wip) | personal github repo dashboard for builing in public,always in working in process | ⭐ 1 | TypeScript |
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | ⭐ 1 | Go |
 | [.github](https://github.com/variableway/.github) | profile | ⭐ 0 | Python |
+| [agent-way](https://github.com/variableway/agent-way) | AI Agent Use cases | ⭐ 0 | JavaScript |
 | [cm-tokscale](https://github.com/variableway/cm-tokscale) | my tokscale for model by data, copy and modify | ⭐ 0 | TypeScript |
 | [dpp-market-intel](https://github.com/variableway/dpp-market-intel) | dpp data and news | ⭐ 0 | HTML |
 | [innate-ai-art](https://github.com/variableway/innate-ai-art) | ai art after work | ⭐ 0 | TypeScript |
