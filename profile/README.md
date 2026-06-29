@@ -12,7 +12,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 <!-- org_stats starts -->
 **Statistics**: 18 repositories, 3 total stars, 0.2 average
 
-*Last updated: 2026-06-29 02:58:14*
+*Last updated: 2026-06-29 10:47:32*
 <!-- org_stats ends -->
 
 ## Project List
@@ -33,7 +33,7 @@ I am a self-taught person, so I guess these projects may be useful for anyone wh
 | [innate-chaos](https://github.com/variableway/innate-chaos) | learning hyper  | ⭐ 0 | Python |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | ⭐ 0 | TypeScript |
 | [innate-factory](https://github.com/variableway/innate-factory) | innate app base for creating application | ⭐ 0 | TypeScript |
-| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | Go |
+| [innate-feeds](https://github.com/variableway/innate-feeds) | collect different feeds | ⭐ 0 | TypeScript |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | ⭐ 0 | TypeScript |
 | [innate-router](https://github.com/variableway/innate-router) | innate-router for client and server | ⭐ 0 | - |
 | [innate-shanghai-live](https://github.com/variableway/innate-shanghai-live) | innate shanghai collections | ⭐ 0 | TypeScript |
