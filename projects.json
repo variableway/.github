@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "repo": "variableway/innate-aiswitcher",
+      "display_name": "innate-aiswitcher"
+    },
+    {
+      "repo": "variableway/spark-cli",
+      "display_name": "spark-cli"
+    }
+  ]
+}
