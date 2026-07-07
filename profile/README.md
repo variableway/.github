@@ -1,9 +1,6 @@
 # variableway
 
-This is Org for Projects created by Learning AI Agent.
-
-- Spark-\*\*\* projects are personal daily work projects.
-- innate-\*\*\* projects are products created by Learning AI Agent.
+You can do things in different ways. 
 
 ## Stats
 
