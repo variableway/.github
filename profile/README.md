@@ -1,6 +1,9 @@
 # variableway
 
-You can do things in different ways. 
+For always and ever always for Vivid.
+
+May Copy and modify, may compose components, may just one idea come up. 
+
 
 ## Stats
 
