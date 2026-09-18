@@ -13,7 +13,7 @@ Have fun in the AI Age, and try to make it useful more or less.
 <!-- org_stats starts -->
 **Statistics**: 2 featured repositories, 2 total stars, 1.0 average
 
-*Last updated: 2026-09-17 04:25:44*
+*Last updated: 2026-09-18 04:09:46*
 <!-- org_stats ends -->
 
 ## Featured Projects
@@ -22,11 +22,11 @@ Have fun in the AI Age, and try to make it useful more or less.
 | Name | Description | Latest Release | Stars | Language |
 |------|-------------|----------------|-------|----------|
 | [innate-aiswitcher](https://github.com/variableway/innate-aiswitcher) | simple ai switch  | [v0.2.0](https://github.com/variableway/innate-aiswitcher/releases/tag/v0.2.0) | ⭐ 1 | Go |
-| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | [v0.2.0](https://github.com/variableway/spark-cli/releases/tag/v0.2.0) | ⭐ 1 | Go |
+| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | [v0.3.2](https://github.com/variableway/spark-cli/releases/tag/v0.3.2) | ⭐ 1 | Go |
 <!-- project_list ends -->
 
 ## Latest Releases
 
 <!-- recent_releases starts -->
-• [innate-aiswitcher - v0.2.0](https://github.com/variableway/innate-aiswitcher/releases/tag/v0.2.0) - 2026-07-07<br>• [spark-cli - v0.2.0](https://github.com/variableway/spark-cli/releases/tag/v0.2.0) - 2026-07-07
+• [spark-cli - v0.3.2](https://github.com/variableway/spark-cli/releases/tag/v0.3.2) - 2026-09-17<br>• [innate-aiswitcher - v0.2.0](https://github.com/variableway/innate-aiswitcher/releases/tag/v0.2.0) - 2026-07-07
 <!-- recent_releases ends -->
