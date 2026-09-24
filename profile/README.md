@@ -3,7 +3,9 @@
 
 For always and ever always for Vivid.
 
-May Copy and modify, may compose components, may just one idea come up.  Capture the random ideas and moments, and try to make simple toy products real.
+May Copy and modify, may compose components, may just one idea come up to figure it out how to make it works.  
+
+Capture the random ideas and moments, and try to make simple toy products real.
 
 Have fun in the AI Age, and try to make it useful more or less.
 
