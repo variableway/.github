@@ -40,19 +40,16 @@ Have fun in the AI Age, and try to make it useful more or less.
 
 ## Innate Apps (maintained)
 
-Project registry maintained in [innate-apps](https://github.com/variableway/innate-apps) — apps are built on base frameworks and shipped as independent applications.
+Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/innate-apps) — apps are built on base frameworks and shipped as independent applications.
 
+<!-- innate_apps starts -->
 ### Apps
-
-| Project | Description | Status | Visibility |
-|---------|-------------|--------|------------|
-| [innate-daily](https://github.com/variableway/innate-daily) | personal github repo dashboard for building in public | maintained | public |
-| [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | maintained | public |
-| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | maintained | public |
-
-### Base Frameworks
-
-| Project | Description | Status | Visibility |
-|---------|-------------|--------|------------|
-| [innate-fe](https://github.com/variableway/innate-fe) | Base frontend framework for innate apps | maintained | public |
-| [innate-backend](https://github.com/variableway/innate-backend) | Base backend framework for innate apps | maintained | public |
+| Project | Description | Status |
+|---|---|---|
+| [innate-daily](https://github.com/variableway/innate-daily) | personal github repo dashboard for building in public, always in working in process | maintained |
+| [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | maintained |
+| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | maintained |
+| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | maintained |
+| [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | maintained |
+| [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | maintained |
+<!-- innate_apps ends -->

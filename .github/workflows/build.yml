@@ -28,6 +28,26 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python build_readme.py
 
+      # registry 驱动的项目段落。渲染器在数据源仓库 qdriven/innate-apps 那边，
+      # 这里只负责跑它。两边改的是不同的标记块（project_list / org_stats /
+      # recent_releases vs innate_apps），互不覆盖。
+      - uses: actions/checkout@v4
+        with:
+          repository: qdriven/innate-apps
+          path: innate-apps-src
+          clean: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Render registry-driven project section
+        run: |
+          node innate-apps-src/scripts/render-profile.mjs \
+            --registry innate-apps-src/registry/apps.json \
+            --out profile/README.md \
+            --profile org
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
