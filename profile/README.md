@@ -13,9 +13,9 @@ Have fun in the AI Age, and try to make it useful more or less.
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 8 featured repositories, 5 total stars, 0.6 average
+**Statistics**: 7 featured repositories, 4 total stars, 0.6 average
 
-*Last updated: 2026-11-06 14:52:52*
+*Last updated: 2026-11-06 14:55:42*
 <!-- org_stats ends -->
 
 ## Featured Projects
@@ -29,7 +29,6 @@ Have fun in the AI Age, and try to make it useful more or less.
 | [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | - | ⭐ 0 | TypeScript |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | [v0.1.0](https://github.com/variableway/innate-keepthem/releases/tag/v0.1.0) | ⭐ 0 | TypeScript |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | [v0.2.0](https://github.com/variableway/innate-executable/releases/tag/v0.2.0) | ⭐ 0 | TypeScript |
-| [innate-wip](https://github.com/variableway/innate-daily) | personal github repo dashboard for builing in public,always in working in process | - | ⭐ 1 | TypeScript |
 | [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | - | ⭐ 1 | TypeScript |
 <!-- project_list ends -->
 
