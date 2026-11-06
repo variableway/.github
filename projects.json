@@ -7,6 +7,30 @@
     {
       "repo": "variableway/spark-cli",
       "display_name": "spark-cli"
+    },
+    {
+      "repo": "variableway/innate-daily",
+      "display_name": "innate-daily"
+    },
+    {
+      "repo": "variableway/innate-feeds",
+      "display_name": "innate-feeds"
+    },
+    {
+      "repo": "variableway/innate-keepthem",
+      "display_name": "innate-keepthem"
+    },
+    {
+      "repo": "variableway/innate-executable",
+      "display_name": "innate-executable"
+    },
+    {
+      "repo": "variableway/innate-wip",
+      "display_name": "innate-wip"
+    },
+    {
+      "repo": "variableway/fire-skills",
+      "display_name": "fire-skills"
     }
   ]
 }
