@@ -43,7 +43,7 @@ jobs:
 
       - name: Render registry-driven project section
         run: |
-          node innate-apps-src/scripts/render-profile.mjs \
+          node innate-apps-src/scripts/registry/render-profile.mjs \
             --registry innate-apps-src/registry/apps.json \
             --out profile/README.md \
             --profile org
