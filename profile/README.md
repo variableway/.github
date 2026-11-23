@@ -13,9 +13,9 @@ Have fun in the AI Age, and try to make it useful more or less.
 ## Stats
 
 <!-- org_stats starts -->
-**Statistics**: 7 featured repositories, 4 total stars, 0.6 average
+**Statistics**: 3 featured repositories, 2 total stars, 0.7 average
 
-*Last updated: 2026-11-22 06:03:48*
+*Last updated: 2026-11-23 06:56:09*
 <!-- org_stats ends -->
 
 ## Featured Projects
@@ -23,19 +23,15 @@ Have fun in the AI Age, and try to make it useful more or less.
 <!-- project_list starts -->
 | Name | Description | Latest Release | Stars | Language |
 |------|-------------|----------------|-------|----------|
-| [innate-aiswitcher](https://github.com/variableway/innate-aiswitcher) | simple ai switch  | [v0.2.0](https://github.com/variableway/innate-aiswitcher/releases/tag/v0.2.0) | ⭐ 1 | Go |
-| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | [v0.3.3](https://github.com/variableway/spark-cli/releases/tag/v0.3.3) | ⭐ 1 | Go |
+| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | [v0.3.3](https://github.com/variableway/spark-cli/releases/tag/v0.3.3) | ⭐ 1 | Python |
 | [innate-daily](https://github.com/variableway/innate-daily) | personal github repo dashboard for builing in public,always in working in process | - | ⭐ 1 | TypeScript |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | - | ⭐ 0 | TypeScript |
-| [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | [v0.1.0](https://github.com/variableway/innate-keepthem/releases/tag/v0.1.0) | ⭐ 0 | TypeScript |
-| [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | [v0.2.0](https://github.com/variableway/innate-executable/releases/tag/v0.2.0) | ⭐ 0 | TypeScript |
-| [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | - | ⭐ 1 | TypeScript |
 <!-- project_list ends -->
 
 ## Latest Releases
 
 <!-- recent_releases starts -->
-• [spark-cli - v0.3.3](https://github.com/variableway/spark-cli/releases/tag/v0.3.3) - 2026-10-20<br>• [innate-aiswitcher - v0.2.0](https://github.com/variableway/innate-aiswitcher/releases/tag/v0.2.0) - 2026-07-07<br>• [innate-keepthem - v0.1.0](https://github.com/variableway/innate-keepthem/releases/tag/v0.1.0) - 2026-05-04<br>• [innate-executable - v0.2.0](https://github.com/variableway/innate-executable/releases/tag/v0.2.0) - 2026-05-04
+• [spark-cli - v0.3.3](https://github.com/variableway/spark-cli/releases/tag/v0.3.3) - 2026-10-20
 <!-- recent_releases ends -->
 
 ## Innate Apps (maintained)
